@@ -1,6 +1,6 @@
 # SingleViewCoreDataTemplate
 
-4/15/2017 - This core data stack is now outdated with the changes to Swift 3
+_4/15/2017 - This core data stack is now outdated with the changes to Swift 3_
 
 This is an Xcode template for Single View app using a "Better Core Data Stack"
 
